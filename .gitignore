@@ -1,0 +1,11 @@
+# 本 repo 僅放說明與截圖,不放實作原始碼與任何文件檔
+*.pdf
+*.py
+venv/
+dist/
+build/
+__pycache__/
+
+# 系統
+Thumbs.db
+.DS_Store
